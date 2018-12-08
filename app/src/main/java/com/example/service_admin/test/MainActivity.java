@@ -5,7 +5,7 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
-
+// comentario
 public class MainActivity extends AppCompatActivity {
 
     private boolean yaTienePunto = false;
